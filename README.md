@@ -8,7 +8,7 @@ The purpose of this package is to have an easy way of getting started with the A
 
 # Requirements
 
-- PHP >= 7.3
+- PHP >= 5.5
 - cURL Extension
 - JSON Extension
 - MBString Extension
